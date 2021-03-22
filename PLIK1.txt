@@ -4,3 +4,4 @@
 4 linijka (iss53)
 5 linijka (iss53)
 6 linijka (master)
+7 linijka (hotfix)
